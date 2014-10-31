@@ -276,7 +276,7 @@ $i18n = array(
  * For: archive.php
 */
 "SUCC_WEB_ARCHIVE"	=>	"An archive of your website has been successfully created",
-"SUCC_WEB_ARC_DEL"	=>	"The seleted archive has been successfully deleted",
+"SUCC_WEB_ARC_DEL"	=>	"The selected archive has been successfully deleted",
 "WEBSITE_ARCHIVES"	=>	"Website Archives",
 "ARCHIVE_DELETED"		=>	"Archive deleted successfully",
 "CREATE_NEW_ARC"		=>	"Create a New Archive",
@@ -359,7 +359,7 @@ $i18n = array(
 "ER_PROBLEM_DEL"		=>	"There was a problem deleting the file",
 "ER_COMPONENT_SAVE"	=>	"Your components have been saved",
 "ER_COMPONENT_REST"	=>	"Your components have been restored",
-"ER_CANCELLED_FAIL"	=>	"<b>Cancelled:</b> This update has been cancelled",
+"ER_CANCELLED_FAIL"	=>	"<b>Canceled:</b> This update has been canceled",
 
 /* 
  * For: changedata.php
@@ -412,7 +412,7 @@ $i18n = array(
 "CLIPBOARD_INSTR" 	=> "Select All",
 "CREATE_THUMBNAIL" 	=> "Create Thumbnail",
 "CROP_INSTR_NEW" 		=> "<em>ctrl-B</em> or <em>command-B</em> for square",
-"SELECT_DIMENTIONS" => "Selection Dimentions",
+"SELECT_DIMENTIONS" => "Selection Dimensions",
 "HTML_ORIG_IMG" 		=> "Original Image HTML",
 "LINK_ORIG_IMG" 		=> "Original Image Link",
 "HTML_THUMBNAIL" 		=> "Thumbnail HTML",
